@@ -31,7 +31,7 @@ Make sure you have the below requirements before starting:
 
 You can get access to Monster Chase source code by using one of the following ways:
 
-- [:sparkles: Download Source Code](https://github.com/azizBouchtaoui/Puzzle-Game/raw/main/Puzzle-Game.unitypackage).
+- [:sparkles: Download Package](https://github.com/azizBouchtaoui/Puzzle-Game/raw/main/Puzzle-Game.unitypackage).
 - Clone the repository locally:
 
 ```bash
@@ -41,17 +41,25 @@ git clone https://github.com/azizBouchtaoui/Puzzle-Game.git
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/azizBouchtaoui/Monster-Chase-Game/blob/main/Screenshots/Menu.PNG" />
+  <img src="https://github.com/azizBouchtaoui/Puzzle-Game/blob/main/Assets/Sprites/menu.PNG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/azizBouchtaoui/Monster-Chase-Game/blob/main/Screenshots/runn.PNG" />
+  <img src="https://github.com/azizBouchtaoui/Puzzle-Game/blob/main/Assets/Sprites/Images.PNG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/azizBouchtaoui/Monster-Chase-Game/blob/main/Screenshots/runn2.PNG" />
+  <img src="https://https://github.com/azizBouchtaoui/Puzzle-Game/blob/main/Assets/Sprites/gameTable.PNG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/azizBouchtaoui/Monster-Chase-Game/blob/main/Screenshots/runn3.PNG" />
+  <img src="https://github.com/azizBouchtaoui/Puzzle-Game/blob/main/Assets/Sprites/Puzle-Resolu.PNG" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/azizBouchtaoui/Puzzle-Game/blob/main/Assets/Sprites/niveauComplete.PNG" />
+</p>
+
+
+Made with :heart: by [Aziz BOUCHTAOUI](https://github.com/azizBouchtaoui)
+
